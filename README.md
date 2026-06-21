@@ -111,54 +111,47 @@ A central focus of Cerium Delta is the development of architecture-aware metrics
 
 ---
 
-# Roadmap
+# Cerium Delta — Roadmap
 
 ## Core Observability
-
-* [ ] Activation Tracking
-* [ ] Gradient Tracking
-* [ ] Weight Evolution Tracking
-* [ ] Dropout Monitoring
-* [ ] Information Flow Tracking
+- [ ] Activation Tracking
+- [ ] Gradient Tracking
+- [ ] Weight Evolution Tracking
+- [ ] Dropout Monitoring
+- [ ] Information Flow Tracking
 
 ## Architecture Intelligence
-
-* [ ] Layer Contribution Score (LCS)
-* [ ] Information Flow Score (IFS)
-* [ ] Neuron Vitality Score (NVS)
-* [ ] Architecture Health Index (AHI)
-* [ ] Structural Efficiency Score (SES)
+- [ ] Layer Contribution Score (LCS)
+- [ ] Information Flow Score (IFS)
+- [ ] Neuron Vitality Score (NVS)
+- [ ] Architecture Health Index (AHI)
+- [ ] Structural Efficiency Score (SES)
 
 ## Real-Time Analysis
-
-* [ ] Bottleneck Detection
-* [ ] Dead Neuron Detection
-* [ ] Representation Collapse Detection
-* [ ] Learning Dynamics Monitoring
-* [ ] Layer Redundancy Detection
+- [ ] Bottleneck Detection
+- [ ] Dead Neuron Detection
+- [ ] Representation Collapse Detection
+- [ ] Learning Dynamics Monitoring
+- [ ] Layer Redundancy Detection
 
 ## Framework Support
-
-* [ ] PyTorch
-* [ ] TensorFlow
-* [ ] JAX
-* [ ] ONNX
+- [ ] PyTorch
+- [ ] TensorFlow
+- [ ] JAX
+- [ ] ONNX
 
 ## Advanced Architectures
-
-* [ ] Transformers
-* [ ] Graph Neural Networks (GNNs)
-* [ ] Convolutional Neural Networks (CNNs)
-* [ ] Diffusion Models
+- [ ] Transformers
+- [ ] Graph Neural Networks (GNNs)
+- [ ] Convolutional Neural Networks (CNNs)
+- [ ] Diffusion Models
 
 ## Platform
-
-* [ ] Real-Time Dashboard
-* [ ] Architecture Timeline
-* [ ] Architecture Comparison Engine
-* [ ] Distributed Training Support
-* [ ] Research Benchmark Suite
-
+- [ ] Real-Time Dashboard
+- [ ] Architecture Timeline
+- [ ] Architecture Comparison Engine
+- [ ] Distributed Training Support
+- [ ] Research Benchmark Suite
 ---
 
 # Vision
