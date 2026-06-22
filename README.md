@@ -1,5 +1,5 @@
 # CERIUM-DELTA
-![CERIUM-DELTA](./images/logo.png "CERIUM-DELTA-LOGO")
+![CERIUM-DELTA](./public/Cerium-delta.png "CERIUM-DELTA-LOGO")
 
 
 # Beyond Visualization
