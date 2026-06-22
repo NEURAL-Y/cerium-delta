@@ -3,7 +3,7 @@
 
 
 # Beyond Visualization
-![hello](./images/logo.png "sample image")
+![SAMPLE](./public/sample.png "sample image")<br>
 Cerium Delta is not a neural network drawing tool.
 
 Most architecture visualization tools generate static diagrams that describe how a model is constructed. While useful for documentation, they provide little insight into how a model behaves during training or inference.
